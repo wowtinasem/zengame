@@ -1,0 +1,111 @@
+{
+  "id": "minhwa_peony_001",
+  "title": "모란도 (牡丹圖)",
+  "description": "괴석 위에 핀 모란과 나비, 단청 구름과 연화 문양 테두리",
+  "style": [
+    "민화",
+    "단청"
+  ],
+  "size": [
+    1000,
+    1000
+  ],
+  "idMap": {
+    "file": "regions.png",
+    "scale": 2,
+    "encoding": "rgb24"
+  },
+  "regionCount": 358,
+  "palette": [
+    {
+      "index": 1,
+      "name": "한지",
+      "hex": "#F2E6CC",
+      "regions": 6
+    },
+    {
+      "index": 2,
+      "name": "백",
+      "hex": "#FBF7EE",
+      "regions": 64
+    },
+    {
+      "index": 3,
+      "name": "황",
+      "hex": "#E8B94A",
+      "regions": 66
+    },
+    {
+      "index": 4,
+      "name": "주홍",
+      "hex": "#C9442F",
+      "regions": 39
+    },
+    {
+      "index": 5,
+      "name": "연지",
+      "hex": "#D9677A",
+      "regions": 8
+    },
+    {
+      "index": 6,
+      "name": "분홍",
+      "hex": "#EE9FA6",
+      "regions": 13
+    },
+    {
+      "index": 7,
+      "name": "연분홍",
+      "hex": "#F7D0CC",
+      "regions": 78
+    },
+    {
+      "index": 8,
+      "name": "연두",
+      "hex": "#B7C98A",
+      "regions": 7
+    },
+    {
+      "index": 9,
+      "name": "하엽",
+      "hex": "#6F9558",
+      "regions": 30
+    },
+    {
+      "index": 10,
+      "name": "뇌록",
+      "hex": "#2F6E5E",
+      "regions": 14
+    },
+    {
+      "index": 11,
+      "name": "삼청",
+      "hex": "#7FA3CC",
+      "regions": 11
+    },
+    {
+      "index": 12,
+      "name": "군청",
+      "hex": "#2D4A80",
+      "regions": 8
+    },
+    {
+      "index": 13,
+      "name": "석",
+      "hex": "#BDB2A0",
+      "regions": 1
+    },
+    {
+      "index": 14,
+      "name": "석록",
+      "hex": "#8D7F6E",
+      "regions": 2
+    },
+    {
+      "index": 15,
+      "name": "먹갈",
+      "hex": "#6B5444",
+      "regions": 11
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+numpy
+scipy
+pillow
+shapely>=2.0
